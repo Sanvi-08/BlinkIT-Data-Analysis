@@ -23,8 +23,11 @@ The dashboard highlights the following KPIs:
 
 **📈 KEY INSIGHTS AND CONCLUSION**
 🛒 Fruits, vegetables, and snack items emerged as top-selling categories.
+
 💡 Low-fat products are preferred, reflecting a trend toward health-conscious purchases.
+
 🏪 Medium-sized outlets in Tier 3 areas showed stronger sales performance.
+
 🛍️ Supermarkets generated higher total sales, while smaller grocery stores had better visibility and customer engagement.
 
 ..............................................................................................................................
