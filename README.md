@@ -22,6 +22,7 @@ The dashboard highlights the following KPIs:
 ..............................................................................................................................
 
 **📈 KEY INSIGHTS AND CONCLUSION**
+
 🛒 Fruits, vegetables, and snack items emerged as top-selling categories.
 
 💡 Low-fat products are preferred, reflecting a trend toward health-conscious purchases.
